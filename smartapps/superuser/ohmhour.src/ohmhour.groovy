@@ -177,7 +177,7 @@ private def textAppName()
 
 private def textVersion() 
 {
-    def text = "Version 1.0 (10/02/17)"
+    def text = "Version 1.0 (10/13/17)"
 }
 
 private def textCopyright() 
