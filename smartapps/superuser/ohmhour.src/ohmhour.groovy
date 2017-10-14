@@ -206,5 +206,5 @@ private def textHelp()
     def text =
         "Ohm Connect is a service that notifies you during peak power grid demand so you can reduce your consumption.(referral link: https://ohmc.co/e4416cb)" +
         "This app pings the Ohm Connect server every minute to see if there is an Ohm Hour Event. " +
-        "When there is, it will run a Hello, Home phrase to help reduce your power use. After the Ohm Hour ends it will run an additional Hello, Home phrase." 
+        "When there is, it will run a routine to help reduce your power use. After the Ohm Hour ends it will run an additional routine." 
 }
